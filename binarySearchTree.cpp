@@ -257,8 +257,3 @@ bool Binary_Search_Tree <T>::search(T item) {
         return found;
     }
 }
-//______________________________________________________
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
